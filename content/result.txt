@@ -1,0 +1,1 @@
+ Here is the result from the write file without async : hello this is text from first file,hello this is text from second file

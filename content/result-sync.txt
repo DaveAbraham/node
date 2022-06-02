@@ -1,0 +1,1 @@
+This is the result text :hello this is text from first file,hello this is text from second fileThis is the result text :hello this is text from first file,hello this is text from second file
